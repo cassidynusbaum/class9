@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    margin:0;
+}
+
+main{
+    background-color: lightskyblue;
+    padding: 20px;
+}
+
+ul{
+    display: flex;
+    margin: 0 30%;
+    list-style: none;
+}
+
+li{
+    background-color:deepskyblue;
+    padding: 10px;
+    margin: 0 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+section{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.466),rgba(0, 0, 0, 0.164)), url(images/img1.png);
+    height: 100%;
+   
+
+}
+
+h1{
+    margin: 0 auto;
+    top:50%;
+}
